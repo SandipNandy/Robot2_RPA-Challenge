@@ -2,7 +2,6 @@
   "name": "Robot2_RPA_Challenge",
   
   "description": "RPA_Challenge",
-  
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.0]",
