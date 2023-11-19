@@ -4,7 +4,6 @@
   "description": "RPA_Challenge",
   
   "main": "Main.xaml",
-  
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.Mail.Activities": "[1.18.1]",
